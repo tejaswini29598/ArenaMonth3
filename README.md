@@ -243,21 +243,8 @@ mvn verify
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### Development Guidelines
-- Follow Spring Boot best practices
-- Write comprehensive unit and integration tests
-- Update documentation for new features
-- Ensure all services build successfully
-- Maintain code coverage above 80%
 
-##  Documentation
 
-Detailed documentation is available in the `docs/` directory:
-
-- [Complete Microservices Documentation](docs/MICROSERVICES_DOCUMENTATION.md)
-- [API Documentation](docs/api/)
-- [Deployment Guides](docs/deployment/)
-- [Architecture Diagrams](docs/diagrams/)
 
 
 
